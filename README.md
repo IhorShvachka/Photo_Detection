@@ -18,7 +18,7 @@ cd Photo_Detection
 
 Створити та активувати віртуальне оточення:python -m venv .venv
 .venv\Scripts\activate  # Для Windows
-# Або source .venv/bin/activate для Linux/Mac
+Або source .venv/bin/activate для Linux/Mac
 Встановити залежності:pip install -r requirements.txt
 Запустити програму:python main.py
 Або як модуль:cd ..
@@ -62,7 +62,7 @@ progress_callback.py — Клас ProgressCallback для відстеження
 Для тренування потрібно мати достатньо оперативної пам’яті, особливо при великій кількості зображень.
 
 Автор:
-[Швачка Ігор Сергійович] (https://github.com/IhorShvachka)
+Швачка Ігор Сергійович (https://github.com/IhorShvachka)
 
 Ліцензія:
 MIT License.
