@@ -1,0 +1,23 @@
+# Віртуальне оточення
+.venv/
+venv/
+
+# Python кеш
+__pycache__/
+*.pyc
+
+# Моделі та тимчасові файли
+*.h5
+best_model.h5
+saved_model.h5
+
+# IDE файли
+.idea/
+*.iml
+
+# Інші тимчасові файли
+*.log
+*.tmp
+
+# macOS файли
+.DS_Store
